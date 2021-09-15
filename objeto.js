@@ -1,4 +1,4 @@
 let miObjeto = {
     nombre : "Jime",
-    programa : "Desarrollo Web Full Stack"
+    cursada: "de agosto a febrero"
 }
