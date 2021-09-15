@@ -1,3 +1,4 @@
 function saludar(nombre){
- return "Sos un groso " + nombre
+ return "Sos una grosa " + nombre
 }
+console.log("jime");
